@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFListboxJogos", "WPFListboxJogos\WPFListboxJogos.csproj", "{327D587C-17B2-4F93-9183-B12A76A7EDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327D587C-17B2-4F93-9183-B12A76A7EDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327D587C-17B2-4F93-9183-B12A76A7EDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327D587C-17B2-4F93-9183-B12A76A7EDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327D587C-17B2-4F93-9183-B12A76A7EDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1984F8F9-8C7E-4874-9F65-B78F52E8538D}
+	EndGlobalSection
+EndGlobal
